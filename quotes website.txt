@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<title>QUOTES</title>
+<meta charset="UTF-8">
+<meta name="description" content="Quotes you sholud know">
+<meta name="keywords" content="QUOTES,quotes,inspiration,motivation">
+<meta name="author" content="Navkit">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<div>
+	<h1> QUOTES For You </h1>
+	<div>
+	<ul>
+	<li>Home</li>
+	<li>Quotes</li>
+	<li>Contact Us </li>
+	</ul>
+	</div>
+</div>
+</body>
+</html>
