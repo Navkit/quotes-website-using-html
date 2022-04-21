@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+    <head>
+        <title>ContactUs</title>
+      <style> h1 {
+			background-color: cadetblue;}
+            body {
+                background-image: url(backimage1.webp);
+            }
+            table{
+                font-size: x-large;
+                color: revert;
+            }
+            input {
+                color: crimson;
+              background-color: peachpuff;
+            }
+            img{
+                width: 450px;
+                height: 150px;
+                margin-top: 80px;
+                margin-left: 40px;
+
+            }
+            q{
+                font-size: 25px;
+            }
+            textarea{
+                background-color: peachpuff;
+            }
+        </style> 
+            </head>
+    <body>
+       <center> <h1>ContactUs</h1> 
+           <form>
+            <table>
+                <tr><td><label>Enter First Name:</label></td>
+                <td><input type="textfield"></td></tr>
+                <tr>
+                
+                </tr>
+                <tr><td><label>Enter Last Name:</label></td>
+                    <td><input type="textfield"></td></tr>
+                    <tr></tr>
+                    <tr><td><label>Enter Phoneno.:</label></td>
+                        <td><input type="number"></td></tr>
+                        <tr></tr>
+                        <tr><td><label>Enter Email:</label></td>
+                            <td><input type="email"></td></tr>
+                            <tr></tr>
+                            <tr>
+                                <td>Your Query Pls:<br><br><br></td>
+                                <td><textarea name="Enter your Query" rows="4" cols="30"></textarea></td> </tr>
+                                <tr></tr>
+                                <td><input type="Submit" value="Submit"></td></tr>
+        </table>
+        </form><br>
+        <q><b>You can Contact Us on 8168123456 <b> </q><br>
+        <img src="images.jpg" alt="sing">
+    </center>
+    </body>
